@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="BirthdayCakeCandles_Esy.cs" />
+    <Compile Remove="MiniMaxSum_Esy.cs" />
     <Compile Remove="PlusMinus_Esy.cs" />
+    <Compile Remove="Staircase_Esy.cs" />
+    <Compile Remove="TimeConversion_Esy.cs" />
   </ItemGroup>
 
 </Project>
